@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img align="center" width="30%"  src="https://media.tenor.com/yipW0XdmrMkAAAAi/shin-chan-kiss-my-ass.gif" />
 
 <!--
 **devuppal46/devuppal46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
